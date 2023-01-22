@@ -1,0 +1,52 @@
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=576&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Baramati
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2077&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Bhor
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=1454&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Dound
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=1171&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Indapur
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2491&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Indapur(Bhigwan)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=3964&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Indapur(Nimgaon Ketki)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=1455&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Junnar
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=3958&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Junnar(Alephata)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=3959&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Junnar(Bhlhe)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=3960&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Junnar(Narayangaon)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2492&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Junnar(Otur)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=173&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Khed
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2493&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Khed(Chakan)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=4753&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Khed(Shel Pimpalgaon)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=577&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Maanachar
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2385&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Mulshi
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=1456&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Nira
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=3113&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Nira(Saswad)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=172&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Pune
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=3110&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Pune(Hadapsar)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2495&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Pune(Khadiki)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=4751&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Pune(Manjri)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=4752&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Pune(Moshi)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2494&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Pune(Pimpri)
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=1827&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Shirur
+<Response [200]>
+https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=MH&Tx_District=14&Tx_Market=2078&DateFrom=20-Oct-2021&DateTo=21-Oct-2021&Fr_Date=20-Oct-2021&To_Date=21-Oct-2021&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=Maharashtra&Tx_DistrictHead=Pune&Tx_MarketHead=Talegaon Dabhade
+<Response [200]>

@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-urls = open("urls", "r").read().splitlines()
+urls = open("urls.txt", "r").read().splitlines()
 
 
 def get_table(url):
@@ -23,3 +23,7 @@ def get_table(url):
 for i in urls:
     market = i.split("Tx_MarketHead=")[1]
     get_table(i)
+
+#%%
+
+#%%
